@@ -97,5 +97,7 @@ if __name__ == "__main__":
         print(a)
         speak(a)
 
+
+print('archivist sync testing')
             
         
